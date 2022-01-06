@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Gayathri&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans&display=swap');
+* {
+    background: #fefbe9;
+}
+h1 {
+    color: #183a1d;
+    text-align: center;
+    font-family: 'Gayathri', serif;
+}
+p {
+    background-color: #e1eedd;
+    color: #183a1d;
+    text-align: center;
+    font-family: 'Alegreya',sans-serif;
+}
+.homepage.description{
+    font-size: 24px;
+}
+.homepage.image{
+    text-align: center;
+}
