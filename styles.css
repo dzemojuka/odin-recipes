@@ -3,7 +3,7 @@
 * {
     background: #fefbe9;
 }
-h1 {
+h1,h2 {
     color: #183a1d;
     text-align: center;
     font-family: 'Gayathri', serif;
@@ -17,6 +17,26 @@ p {
 .homepage.description{
     font-size: 24px;
 }
-.homepage.image{
+.homepage.image, .lasagna.image,.smoothie.image{
+    text-align: center;
+}
+
+ .lasagna.button, .smoothie.button {
+    text-align: center;
+    color: #f0a04b;
+}
+
+button {
+    background-color: #183a1d;
+    font-size: 24px;
+}
+
+
+.lasagna.description{
+    text-align: center;
+}
+
+ul {
+    color: #183a1d;
     text-align: center;
 }
