@@ -17,11 +17,11 @@ p {
 .homepage.description{
     font-size: 24px;
 }
-.homepage.image, .lasagna.image,.smoothie.image{
+.homepage.image, .lasagna.image,.smoothie.image, .salad.image{
     text-align: center;
 }
 
- .lasagna.button, .smoothie.button {
+ .lasagna.button, .smoothie.button, .salad.button {
     text-align: center;
     color: #f0a04b;
 }
